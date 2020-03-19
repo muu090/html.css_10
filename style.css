@@ -30,21 +30,21 @@ main{
 
 .step-img1{
   height: 150px;
-  background-image: url(../chapter9/chapter9_exercise/img/flow01.png);
+  background-image: url(../chapter10/img/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .step-img2{
   height: 150px;
-  background-image: url(../chapter9/chapter9_exercise/img/flow02.png);
+  background-image: url(../chapter10/img/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .step-img3{
   height: 150px;
-  background-image: url(../chapter9/chapter9_exercise/img/flow03.png);
+  background-image: url(../chapter10/img/flow03.png);
   background-size: cover;
   background-position: bottom;
 }
@@ -63,7 +63,7 @@ main{
 }
 
 /* スマートフォン用 */
-@media screen and (max-width:425px) {
+@media screen and (max-width:768px) {
   main {
     width: 100%;
   }
